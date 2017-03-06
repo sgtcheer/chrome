@@ -1,6 +1,6 @@
 {
 	"manifest_version":2,
-	"name":"taobao shop search helper",
+	"name":"宝贝搜索助手",
 	"version":"1.0",
 	"description":"2017-02-25",
 	"icons": {
@@ -13,7 +13,7 @@
 			"19":"images/icon19.png",
 			"38":"images/icon38.png"
 		},
-		"default_title":"淘宝店铺搜索"	    
+		"default_title":"宝贝搜索"	    
 		
 	},
 	"background": {
